@@ -110,7 +110,7 @@
 		<div class="container-fluid custom-width">
 			<div class="row">
 				<div class="col-md-12 col-lg-3 col-xl-3 text-center second-home-main-logo">
-					<a href="index.html"><img src="img/logo.png" alt="Logo"></a>
+					<a href="index.php"><img src="img/logo.png" alt="Logo"></a>
 				</div>
 				<div class="col-md-6 col-lg-6 slider-search-section d-none d-lg-block">
 						<div class="input-group">
@@ -346,27 +346,27 @@
                         <!--Mobile Menu start-->
 
                         <ul id="mobilemenu" class="accordion">
-                           <!-- <li class="mob-logo"><a href="index.html"><img src="img/logo.png" alt=""></a></li>-->
+                           <!-- <li class="mob-logo"><a href="index.php"><img src="img/logo.png" alt=""></a></li>-->
                             <li><a class="closeme" href="#"><i class="fa fa-times" ></i></a></li>
-                            <li class="mob-logo"><a href="index.html"><img src="img/logo.png" alt=""></a></li>
+                            <li class="mob-logo"><a href="index.php"><img src="img/logo.png" alt=""></a></li>
                             
                             
                             <li>
                                 <div class="link">Home<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu font-sky">
-                                    <li><a href="index.html">Home one</a></li>
-                                    <li><a href="index-01-02.html">Home one Fullwidth</a></li>
-                                    <li><a href="index-second-home.html">Home two</a></li>
-                                    <li><a href="index-third-home.html">Home three</a></li>
-                                    <li><a href="magazine.html">Home Page Magazine </a></li>
+                                    <li><a href="index.php">Home one</a></li>
+                                    <li><a href="index-01-02.php">Home one Fullwidth</a></li>
+                                    <li><a href="index-second-home.php">Home two</a></li>
+                                    <li><a href="index-third-home.php">Home three</a></li>
+                                    <li><a href="magazine.php">Home Page Magazine </a></li>
                                 </ul>
                             </li>
                             <li>
                                 <div class="link">Comparison Product <i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu font-sky">
-                                    <li><a href="compare-products.html">Comparison Product</a></li>
-                                    <li><a href="compare-products-single.html">Compare Products Single</a></li>
-                                    <li><a href="compare-products-choose-market.html">Compare Products Choose Market</a></li>
+                                    <li><a href="compare-products.php">Comparison Product</a></li>
+                                    <li><a href="compare-products-single.php">Compare Products Single</a></li>
+                                    <li><a href="compare-products-choose-market.php">Compare Products Choose Market</a></li>
                                     
                                 </ul>
                             </li>
@@ -374,72 +374,72 @@
                                 <div class="link ">shop<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu">
 
-                                    <li><a href="shop-left-sidebar.html">Shop Page</a></li>
-                                    <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                    <li><a href="shop-left-sidebar-full-grid.html">Shop Left Sidebar Full Grid</a></li>
-                                    <li><a href="shop-right-sidebar-full-grid.html">Shop Right Sidebar Full Grid</a></li>
-                                    <li><a href="product-details.html">Product Details</a></li>
-                                    <li><a href="product-details-scroll.html">Product Details v2</a></li>
-                                    <li><a href="wishlist.html">Wishlist View</a></li>
+                                    <li><a href="shop-left-sidebar.php">Shop Page</a></li>
+                                    <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
+                                    <li><a href="shop-left-sidebar-full-grid.php">Shop Left Sidebar Full Grid</a></li>
+                                    <li><a href="shop-right-sidebar-full-grid.php">Shop Right Sidebar Full Grid</a></li>
+                                    <li><a href="product-details.php">Product Details</a></li>
+                                    <li><a href="product-details-scroll.php">Product Details v2</a></li>
+                                    <li><a href="wishlist.php">Wishlist View</a></li>
                                 </ul>
                             </li>
 
                             <li>
                                 <div class="link">megamenu<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu ">
-                                  <li><a href="shop-left-sidebar.html">Visual Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Chinese phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Google Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Video cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Top Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Cheap Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Best Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Luxury Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
-                                  <li><a href="shop-left-sidebar.html">Phone Electronice</a></li>
-					              <li><a href="shop-left-sidebar.html">Phone Appereances</a></li>
-					              <li><a href="shop-left-sidebar.html">Visual Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Chinese phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Google Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Cheap Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Luxury phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Simple phones</a></li>
-                                  <li><a href="shop-left-sidebar.html">Camera Electronice</a></li>
-					              <li><a href="shop-left-sidebar.html">Camera Appereances</a></li>
-					              <li><a href="shop-left-sidebar.html">DSLR</a></li>
-					              <li><a href="shop-left-sidebar.html">Video cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Top Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Cheap Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Best Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Luxury Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
+                                  <li><a href="shop-left-sidebar.php">Visual Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Chinese phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Google Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Video cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Top Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Cheap Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Best Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Luxury Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Simple Cameras</a></li>
+                                  <li><a href="shop-left-sidebar.php">Phone Electronice</a></li>
+					              <li><a href="shop-left-sidebar.php">Phone Appereances</a></li>
+					              <li><a href="shop-left-sidebar.php">Visual Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Chinese phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Google Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Cheap Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Luxury phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Simple phones</a></li>
+                                  <li><a href="shop-left-sidebar.php">Camera Electronice</a></li>
+					              <li><a href="shop-left-sidebar.php">Camera Appereances</a></li>
+					              <li><a href="shop-left-sidebar.php">DSLR</a></li>
+					              <li><a href="shop-left-sidebar.php">Video cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Top Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Cheap Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Best Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Luxury Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Simple Cameras</a></li>
                                 </ul>
                                 
                             </li>
                             <li>
                                 <div class="link">Reviews<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu">
-                                    <li><a href="product-details-review-history.html">Product History</a></li>
-                                    <li><a href="product-details-single-review.html">Single Review</a></li>
-                                    <li><a href="review-left-sidebar.html">Review Left Sidebar</a></li>
-                                    <li><a href="review-right-sidebar.html">Review Right Sidebar</a></li>
+                                    <li><a href="product-details-review-history.php">Product History</a></li>
+                                    <li><a href="product-details-single-review.php">Single Review</a></li>
+                                    <li><a href="review-left-sidebar.php">Review Left Sidebar</a></li>
+                                    <li><a href="review-right-sidebar.php">Review Right Sidebar</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <div class="link">Blog<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu">
-                                    <li><a href="blog-full-grid.html">Blog Full Grid</a></li>
-                                    <li><a href="blog-two-grid.html">Blog Two Grid</a></li>
-                                    <li><a href="blog-three-grid.html">Blog Three Grid</a></li>
-                                    <li><a href="blog-four-grid.html">Blog Four Grid</a></li>
-                                    <li><a href="blog-four-grid-left-sidebar.html">Blog Four Grid Left Sidebar</a></li>
-                                    <li><a href="blog-four-grid-right-sidebar.html">Blog Four Grid Right Sidebar</a></li>
-                                    <li><a href="single-blog-with.html">Single Blog</a></li>
-                                    <li><a href="single-blog-with-add.html">Single Blog With Add</a></li>
+                                    <li><a href="blog-full-grid.php">Blog Full Grid</a></li>
+                                    <li><a href="blog-two-grid.php">Blog Two Grid</a></li>
+                                    <li><a href="blog-three-grid.php">Blog Three Grid</a></li>
+                                    <li><a href="blog-four-grid.php">Blog Four Grid</a></li>
+                                    <li><a href="blog-four-grid-left-sidebar.php">Blog Four Grid Left Sidebar</a></li>
+                                    <li><a href="blog-four-grid-right-sidebar.php">Blog Four Grid Right Sidebar</a></li>
+                                    <li><a href="single-blog-with.php">Single Blog</a></li>
+                                    <li><a href="single-blog-with-add.php">Single Blog With Add</a></li>
                                 </ul>
                             </li>
-                            <li class="out-link"><a class="" href="contact-us.html">Contact</a></li>
-                            <li class="out-link"><a class="" href="coupon.html">Coupon</a></li>
+                            <li class="out-link"><a class="" href="contact-us.php">Contact</a></li>
+                            <li class="out-link"><a class="" href="coupon.php">Coupon</a></li>
 
                         </ul>
                         <!--Mobile Menu end-->
@@ -467,96 +467,96 @@
                                                     <div class="col-md-4">
                                                         <h6 class="black-color wd-sub-list-title">Cameras and photos</h6>
                                                         <ul class="wd-sub-menu">
-                                                            <li><a href="shop-left-sidebar.html">Camera Electronice</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Camera Appereances</a></li>
-                                                            <li><a href="shop-left-sidebar.html">DSLR</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Video cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Top Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Cheap Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Best Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Luxury Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Camera Electronice</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Camera Appereances</a></li>
+                                                            <li><a href="shop-left-sidebar.php">DSLR</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Video cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Top Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Cheap Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Best Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Luxury Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Simple Cameras</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-md-4">
                                                         <h6 class="black-color wd-sub-list-title">Cameras and photos</h6>
                                                         <ul class="wd-sub-menu">
-                                                            <li><a href="shop-left-sidebar.html">Camera Electronice</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Camera Appereances</a></li>
-                                                            <li><a href="shop-left-sidebar.html">DSLR</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Video cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Top Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Cheap Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Best Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Luxury Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Camera Electronice</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Camera Appereances</a></li>
+                                                            <li><a href="shop-left-sidebar.php">DSLR</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Video cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Top Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Cheap Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Best Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Luxury Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Simple Cameras</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-md-4">
                                                         <h6 class="black-color wd-sub-list-title">Cameras and photos</h6>
                                                         <ul class="wd-sub-menu">
-                                                            <li><a href="shop-left-sidebar.html">Camera Electronice</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Camera Appereances</a></li>
-                                                            <li><a href="shop-left-sidebar.html">DSLR</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Video cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Top Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Cheap Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Best Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Luxury Cameras</a></li>
-                                                            <li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Camera Electronice</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Camera Appereances</a></li>
+                                                            <li><a href="shop-left-sidebar.php">DSLR</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Video cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Top Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Cheap Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Best Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Luxury Cameras</a></li>
+                                                            <li><a href="shop-left-sidebar.php">Simple Cameras</a></li>
                                                         </ul>
                                                     </div>
                                                     <div class="col-md-6">
-                                                        <a href="product-details-scroll.html"><img src="img/department-img/department-sub-list-img-1.jpg" class="department-sub-list-img" alt="department-sub-list-img"></a>
+                                                        <a href="product-details-scroll.php"><img src="img/department-img/department-sub-list-img-1.jpg" class="department-sub-list-img" alt="department-sub-list-img"></a>
                                                     </div>
                                                     <div class="col-md-6">
-                                                        <a href="product-details-scroll.html"><img src="img/department-img/department-sub-list-img-2.jpg" class="department-sub-list-img" alt="department-sub-list-img"></a>
+                                                        <a href="product-details-scroll.php"><img src="img/department-img/department-sub-list-img-2.jpg" class="department-sub-list-img" alt="department-sub-list-img"></a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </li>
-                                    <li class="list-group-item"><a href="product-details-scroll.html">
+                                    <li class="list-group-item"><a href="product-details-scroll.php">
                                         <div class="department-list-logo">
                                             <img src="img/department-img/department-img-2.png" alt="">
                                         </div><span class="sub-list-main-menu">Household</span></a>
                                     </li>
-                                    <li class="list-group-item"><a href="product-details-scroll.html">
+                                    <li class="list-group-item"><a href="product-details-scroll.php">
                                         <div class="department-list-logo">
                                             <img src="img/department-img/department-img-3.png" alt="">
                                         </div><span class="sub-list-main-menu">Clothes</span></a>
                                     </li>
-                                    <li class="list-group-item"><a href="product-details-scroll.html">
+                                    <li class="list-group-item"><a href="product-details-scroll.php">
                                         <div class="department-list-logo">
                                             <img src="img/department-img/department-img-4.png" alt="">
                                         </div><span class="sub-list-main-menu">Accessories</span></a>
                                     </li>
-                                    <li class="list-group-item"><a href="product-details-scroll.html">
+                                    <li class="list-group-item"><a href="product-details-scroll.php">
                                         <div class="department-list-logo">
                                             <img src="img/department-img/department-img-5.png" alt="">
                                         </div><span class="sub-list-main-menu">Electronics</span></a>
                                     </li>
-                                    <li class="list-group-item"><a href="product-details-scroll.html">
+                                    <li class="list-group-item"><a href="product-details-scroll.php">
                                         <div class="department-list-logo">
                                             <img src="img/department-img/department-img-6.png" alt="">
                                         </div><span class="sub-list-main-menu">Corporate staff</span></a>
                                     </li>
-                                    <li class="list-group-item"><a href="product-details-scroll.html">
+                                    <li class="list-group-item"><a href="product-details-scroll.php">
                                         <div class="department-list-logo">
                                             <img src="img/department-img/department-img-7.png" alt="">
                                         </div><span class="sub-list-main-menu">Sinking staff</span></a>
                                     </li>
-                                    <li class="list-group-item"><a href="product-details-scroll.html">
+                                    <li class="list-group-item"><a href="product-details-scroll.php">
                                         <div class="department-list-logo">
                                             <img src="img/department-img/department-img-8.png" alt="">
                                         </div><span class="sub-list-main-menu">Plant</span></a>
                                     </li>
-                                    <li class="list-group-item"><a href="product-details-scroll.html">
+                                    <li class="list-group-item"><a href="product-details-scroll.php">
                                         <div class="department-list-logo">
                                             <img src="img/department-img/department-img-9.png" alt="">
                                         </div><span class="sub-list-main-menu">Washing machine</span></a>
                                     </li>
-                                    <li class="list-group-item"><a href="product-details-scroll.html">
+                                    <li class="list-group-item"><a href="product-details-scroll.php">
                                         <div class="department-list-logo">
                                             <img src="img/department-img/department-img-10.png" alt="">
                                         </div><span class="sub-list-main-menu">Winding staff</span></a>
@@ -570,97 +570,97 @@
                             <div class="menu-container wd-megamenu text-left">
                                 <div class="menu">
                                     <ul class="wd-megamenu-ul">
-                                        <li><a href="index.html" class="main-menu-list"><i class="fa fa-home" aria-hidden="true"></i> Home <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
+                                        <li><a href="index.php" class="main-menu-list"><i class="fa fa-home" aria-hidden="true"></i> Home <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                             <ul class="single-dropdown">
-                                                <li><a href="index.html">Home Page 1</a></li>
-                                                <li><a href="index-01-02.html">Home page 1 Fullwidth</a></li>
-                                                <li><a href="index-second-home.html">Home Page 2</a></li>
-                                                <li><a href="index-third-home.html">Home Page 3</a></li>
-                                                <li><a href="magazine.html">Home Page Magazine</a></li>
+                                                <li><a href="index.php">Home Page 1</a></li>
+                                                <li><a href="index-01-02.php">Home page 1 Fullwidth</a></li>
+                                                <li><a href="index-second-home.php">Home Page 2</a></li>
+                                                <li><a href="index-third-home.php">Home Page 3</a></li>
+                                                <li><a href="magazine.php">Home Page Magazine</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="compare-products.html" class="main-menu-list">Comparison Product <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
+                                        <li><a href="compare-products.php" class="main-menu-list">Comparison Product <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                             <ul class="single-dropdown">
-                                                <li><a href="compare-products.html">Comparison Product</a></li>
-                                                <li><a href="compare-products-single.html">Compare Products Single</a></li>
-                                                <li><a href="compare-products-choose-market.html">Compare Products Choose Market</a></li>
+                                                <li><a href="compare-products.php">Comparison Product</a></li>
+                                                <li><a href="compare-products-single.php">Compare Products Single</a></li>
+                                                <li><a href="compare-products-choose-market.php">Compare Products Choose Market</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="shop-left-sidebar.html" class="main-menu-list">Shop <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
+                                        <li><a href="shop-left-sidebar.php" class="main-menu-list">Shop <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                             <ul class="single-dropdown">
-                                                <li><a href="shop-left-sidebar.html">Shop Page</a></li>
-                                                <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                                <li><a href="shop-left-sidebar-full-grid.html">Shop Left Sidebar Full Grid</a></li>
-                                                <li><a href="shop-right-sidebar-full-grid.html">Shop Right Sidebar Full Grid</a></li>
-                                                <li><a href="product-details.html">Product Details</a></li>
-                                                <li><a href="product-details-scroll.html">Product Details v2</a></li>
-                                                <li><a href="wishlist.html">Wishlist View</a></li>
+                                                <li><a href="shop-left-sidebar.php">Shop Page</a></li>
+                                                <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
+                                                <li><a href="shop-left-sidebar-full-grid.php">Shop Left Sidebar Full Grid</a></li>
+                                                <li><a href="shop-right-sidebar-full-grid.php">Shop Right Sidebar Full Grid</a></li>
+                                                <li><a href="product-details.php">Product Details</a></li>
+                                                <li><a href="product-details-scroll.php">Product Details v2</a></li>
+                                                <li><a href="wishlist.php">Wishlist View</a></li>
                                             </ul>
                                         </li>
-                                        <li class="pos-inherit"><a href="shop-left-sidebar.html" class="main-menu-list ">Shortcode <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
+                                        <li class="pos-inherit"><a href="shop-left-sidebar.php" class="main-menu-list ">Shortcode <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                     <ul class="single-dropdown megamenu">
                                         <li><a href="#" class="menu-subtitle">Shortcode One</a>
                                             <ul class="sub-menu-list">
-                                                <li><a href="blurb-blog.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i> blurb-blog</a></li>
-                                                <li><a href="blurb-call-to-action.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-call-to-action</a></li>
-                                                <li><a href="blurb-carousel.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-carousel</a></li>
-                                                <li><a href="blurb-compare-products.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-compare-products</a></li>
-                                                <li><a href="blurb-footer.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-footer</a></li>
-                                                <li><a href="blurb-counterup.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb Count up</a></li>
-                                                <li><a href="404.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>404 page</a></li>
+                                                <li><a href="blurb-blog.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> blurb-blog</a></li>
+                                                <li><a href="blurb-call-to-action.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-call-to-action</a></li>
+                                                <li><a href="blurb-carousel.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-carousel</a></li>
+                                                <li><a href="blurb-compare-products.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-compare-products</a></li>
+                                                <li><a href="blurb-footer.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-footer</a></li>
+                                                <li><a href="blurb-counterup.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb Count up</a></li>
+                                                <li><a href="404.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>404 page</a></li>
                                                 
                                             </ul>
                                         </li>
                                         <li><a href="#" class="menu-subtitle">Shortcode Two</a>
                                             <ul class="sub-menu-list">
                                                 
-                                                <li><a href="blurb-product.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-product</a></li>
-                                                <li><a href="blurb-reveiw.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-reveiw</a></li>
-                                                <li><a href="blurb-service.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-service</a></li>
-                                                <li><a href="blurb-widgetstyle-1.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-1</a></li>
-                                                <li><a href="blurb-social.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb social icon</a></li>
-                                                <li><a href="blurb-subscribe.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb Subscribe</a></li>
-                                                <li><a href="coming-soon.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Coming Soon</a></li>
+                                                <li><a href="blurb-product.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-product</a></li>
+                                                <li><a href="blurb-reveiw.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-reveiw</a></li>
+                                                <li><a href="blurb-service.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-service</a></li>
+                                                <li><a href="blurb-widgetstyle-1.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-1</a></li>
+                                                <li><a href="blurb-social.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb social icon</a></li>
+                                                <li><a href="blurb-subscribe.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb Subscribe</a></li>
+                                                <li><a href="coming-soon.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Coming Soon</a></li>
                                                 
                                             </ul>
                                         </li>
                                         <li><a href="#" class="menu-subtitle">Shortcode three</a>
                                             <ul class="sub-menu-list">
-                                                <li><a href="blurb-widgetstyle-2.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-2</a></li>
-                                                <li><a href="blurb-widgetstyle-3.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-3</a></li>
-                                                <li><a href="blurb-widgetstyle-4.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-4</a></li>
-                                                <li><a href="blurb-widgetstyle-5.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-5</a></li>
-                                                <li><a href="blurb-widgetstyle-6.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-6</a></li>
+                                                <li><a href="blurb-widgetstyle-2.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-2</a></li>
+                                                <li><a href="blurb-widgetstyle-3.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-3</a></li>
+                                                <li><a href="blurb-widgetstyle-4.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-4</a></li>
+                                                <li><a href="blurb-widgetstyle-5.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-5</a></li>
+                                                <li><a href="blurb-widgetstyle-6.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-6</a></li>
                                                 
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="product-details-scroll.html" class="add-img"><img src="img/nav-img-1.jpg" class="figure-img img-fluid" alt="Product Img"></a>
-                                            <a href="product-details-scroll.html" class="add-img"><img src="img/nav-img-2.jpg" class="figure-img img-fluid" alt="Product Img"></a>
+                                            <a href="product-details-scroll.php" class="add-img"><img src="img/nav-img-1.jpg" class="figure-img img-fluid" alt="Product Img"></a>
+                                            <a href="product-details-scroll.php" class="add-img"><img src="img/nav-img-2.jpg" class="figure-img img-fluid" alt="Product Img"></a>
                                         </li>
                                     </ul>
                                 </li>
-                                        <li><a href="review-left-sidebar.html" class="main-menu-list">REVIEWS</a>
+                                        <li><a href="review-left-sidebar.php" class="main-menu-list">REVIEWS</a>
                                             <ul class="single-dropdown">
-                                                <li><a href="product-details-review-history.html">Product History</a></li>
-                                                <li><a href="product-details-single-review.html">Single Review</a></li>
-                                                <li><a href="review-left-sidebar.html">Review Left Sidebar</a></li>
-                                                <li><a href="review-right-sidebar.html">Review Right Sidebar</a></li>
+                                                <li><a href="product-details-review-history.php">Product History</a></li>
+                                                <li><a href="product-details-single-review.php">Single Review</a></li>
+                                                <li><a href="review-left-sidebar.php">Review Left Sidebar</a></li>
+                                                <li><a href="review-right-sidebar.php">Review Right Sidebar</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="blog-four-grid-left-sidebar.html" class="main-menu-list">Blog</a>
+                                        <li><a href="blog-four-grid-left-sidebar.php" class="main-menu-list">Blog</a>
                                             <ul class="single-dropdown">
-                                                <li><a href="blog-full-grid.html">Blog Full Grid</a></li>
-                                                <li><a href="blog-two-grid.html">Blog Two Grid</a></li>
-                                                <li><a href="blog-three-grid.html">Blog Three Grid</a></li>
-                                                <li><a href="blog-four-grid.html">Blog Four Grid</a></li>
-                                                <li><a href="blog-four-grid-left-sidebar.html">Blog Four Grid Left Sidebar</a></li>
-                                                <li><a href="blog-four-grid-right-sidebar.html">Blog Four Grid Right Sidebar</a></li>
-                                                <li><a href="single-blog-with.html">Single Blog</a></li>
-                                                <li><a href="single-blog-with-add.html">Single Blog With Add</a></li>
+                                                <li><a href="blog-full-grid.php">Blog Full Grid</a></li>
+                                                <li><a href="blog-two-grid.php">Blog Two Grid</a></li>
+                                                <li><a href="blog-three-grid.php">Blog Three Grid</a></li>
+                                                <li><a href="blog-four-grid.php">Blog Four Grid</a></li>
+                                                <li><a href="blog-four-grid-left-sidebar.php">Blog Four Grid Left Sidebar</a></li>
+                                                <li><a href="blog-four-grid-right-sidebar.php">Blog Four Grid Right Sidebar</a></li>
+                                                <li><a href="single-blog-with.php">Single Blog</a></li>
+                                                <li><a href="single-blog-with-add.php">Single Blog With Add</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="coupon.html" class="main-menu-list">Coupon</a></li>
+                                        <li><a href="coupon.php" class="main-menu-list">Coupon</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -685,11 +685,11 @@
 						</div>
 						  </div>
                         
-                        <!-- <a href="coupon.html" class="coupon-save"><i class="fa fa-star-o" aria-hidden="true"></i>
+                        <!-- <a href="coupon.php" class="coupon-save"><i class="fa fa-star-o" aria-hidden="true"></i>
 							    <span class="count">5</span>
 							    </a> -->
 							    
-								<!-- <a class="header-wishlist" href="wishlist.html">
+								<!-- <a class="header-wishlist" href="wishlist.php">
 									<i class="fa fa-heart-o" aria-hidden="true"></i>
 									<span class="count">8</span>
 								</a> -->
@@ -773,7 +773,7 @@
 										</div>
 									</div>
 								  	<div class="media text-center">
-										<a href="compare-products.html" class="btn btn-primary go-compare-page">Compare 
+										<a href="compare-products.php" class="btn btn-primary go-compare-page">Compare 
 										<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 									</div>
 								  </div>
@@ -800,7 +800,7 @@
 							<h6 class="sub-title">Choose your favourite market</h6>
 							<h1 class="slider-title"><strong class="highlights-text">Compare</strong> Best Prices</h1>
 							<p class="slider-content">Grabe it hurry.</p>
-							<a href="shop-left-sidebar.html" class="btn btn-primary wd-shop-btn slider-btn">
+							<a href="shop-left-sidebar.php" class="btn btn-primary wd-shop-btn slider-btn">
 								Go to store <i class="fa fa-arrow-right" aria-hidden="true"></i>
 							</a>
 						</div>
@@ -817,7 +817,7 @@
 							<h6 class="sub-title">Choose your favourite market</h6>
 							<h1 class="slider-title"><strong class="highlights-text">Compare</strong> Best Prices</h1>
 							<p class="slider-content">Grabe it hurry.</p>
-							<a href="shop-left-sidebar.html" class="btn btn-primary wd-shop-btn slider-btn">
+							<a href="shop-left-sidebar.php" class="btn btn-primary wd-shop-btn slider-btn">
 								Go to store <i class="fa fa-arrow-right" aria-hidden="true"></i>
 							</a>
 						</div>
@@ -835,7 +835,7 @@
                <div class="col-lg-2 col-xl-2 d-md-none d-xl-block">
                   <div class="mag-left-banner">
                       <img src="img/product-img/mag-left-banner.png" alt="">
-                      <a href="shop-left-sidebar.html" class="btn btn-primary wd-shop-btn">Shop Now</a>
+                      <a href="shop-left-sidebar.php" class="btn btn-primary wd-shop-btn">Shop Now</a>
                   </div>
                </div>
                 <div class="col-lg-12 col-xl-10 ">
@@ -919,12 +919,12 @@
                     <div class="big-offer ">
                         <div class="sin-big-offer n1">
                             <img src="img/product-img/big-deal1.png" alt="">
-                            <a href="shop-left-sidebar.html" class="btn btn-primary wd-shop-btn pos-1">Shop Now</a>
+                            <a href="shop-left-sidebar.php" class="btn btn-primary wd-shop-btn pos-1">Shop Now</a>
                         </div>
                         
                         <div class="sin-big-offer mar-left n2">
                             <img src="img/product-img/big-deal2.png" alt="">
-                            <a href="shop-left-sidebar.html" class="btn btn-primary wd-shop-btn pos-2">Shop Now</a>
+                            <a href="shop-left-sidebar.php" class="btn btn-primary wd-shop-btn pos-2">Shop Now</a>
                             <div class="count-down">
                                 <div data-countdown="2018/12/11"></div>
                             </div>
@@ -932,7 +932,7 @@
                         
                         <div class="sin-big-offer n3">
                             <img src="img/product-img/big-deal3.png" alt="">
-                            <a href="shop-left-sidebar.html" class="btn btn-primary wd-shop-btn pos-3">Shop Now</a>
+                            <a href="shop-left-sidebar.php" class="btn btn-primary wd-shop-btn pos-3">Shop Now</a>
                         </div>
                     </div>
                     <!--Magazine Big offer end-->
@@ -1003,7 +1003,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-electronics.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-electronics.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #ff8a80"></span>
@@ -1019,7 +1019,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-laptop.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-laptop.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #8899f9"></span>
@@ -1034,7 +1034,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-household.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-household.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #84ffff"></span>
@@ -1049,7 +1049,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-beauty.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-beauty.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #ff9e80"></span>
@@ -1064,7 +1064,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-healthnbeauty.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-healthnbeauty.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #ea80fc"></span>
@@ -1079,7 +1079,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-automative.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-automative.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #84ffff"></span>
@@ -1094,7 +1094,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-auto2.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-auto2.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #ffd740"></span>
@@ -1109,7 +1109,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-food.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-food.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #a788ff"></span>
@@ -1124,7 +1124,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-fashion.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-fashion.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #ff8a80"></span>
@@ -1139,7 +1139,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-hotel.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-hotel.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #8c9eff"></span>
@@ -1155,7 +1155,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-stationaries.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-stationaries.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #84ffff"></span>
@@ -1171,7 +1171,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-personal.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-personal.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #ff9e80"></span>
@@ -1186,7 +1186,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-services.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-services.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #ea80fc"></span>
@@ -1201,7 +1201,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-software.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-software.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #90a4ae"></span>
@@ -1217,7 +1217,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-grocery.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-grocery.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #98e389"></span>
@@ -1233,7 +1233,7 @@
 	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
-		    					<a href="shop-left-sidebar.html"><img class="img-fluid" src="img/categories/cat-video.png" alt=""></a>
+		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-video.png" alt=""></a>
 		    				</div>
 						</div>
 						<span class="wd-border-bottom" style="background: #a788ff"></span>
@@ -1311,7 +1311,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1350,7 +1350,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1389,7 +1389,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1428,7 +1428,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1467,7 +1467,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1506,7 +1506,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1545,7 +1545,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1584,7 +1584,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1623,7 +1623,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1662,7 +1662,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1701,7 +1701,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1740,7 +1740,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1779,7 +1779,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1818,7 +1818,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1857,7 +1857,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1896,7 +1896,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1935,7 +1935,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -1974,7 +1974,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2021,7 +2021,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2060,7 +2060,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2099,7 +2099,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2138,7 +2138,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2177,7 +2177,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2216,7 +2216,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2255,7 +2255,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2294,7 +2294,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2333,7 +2333,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2372,7 +2372,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2411,7 +2411,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2450,7 +2450,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2489,7 +2489,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2528,7 +2528,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2567,7 +2567,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2606,7 +2606,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2645,7 +2645,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2684,7 +2684,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2731,7 +2731,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2770,7 +2770,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2809,7 +2809,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2848,7 +2848,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2887,7 +2887,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2926,7 +2926,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -2965,7 +2965,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3004,7 +3004,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3043,7 +3043,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3082,7 +3082,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3121,7 +3121,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3160,7 +3160,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3199,7 +3199,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3238,7 +3238,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3277,7 +3277,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3316,7 +3316,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3355,7 +3355,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3394,7 +3394,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3441,7 +3441,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3480,7 +3480,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3519,7 +3519,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3558,7 +3558,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3597,7 +3597,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3636,7 +3636,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3675,7 +3675,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3714,7 +3714,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3753,7 +3753,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3792,7 +3792,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3831,7 +3831,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3870,7 +3870,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3909,7 +3909,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3948,7 +3948,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -3987,7 +3987,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4026,7 +4026,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4065,7 +4065,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4104,7 +4104,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4151,7 +4151,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4190,7 +4190,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4229,7 +4229,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4268,7 +4268,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4307,7 +4307,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4346,7 +4346,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4385,7 +4385,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4424,7 +4424,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4463,7 +4463,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4502,7 +4502,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4541,7 +4541,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4580,7 +4580,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4619,7 +4619,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4658,7 +4658,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4697,7 +4697,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4736,7 +4736,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4775,7 +4775,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -4814,7 +4814,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.html">Phone 550 and  Scorebox  review example</a>
+													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>
@@ -5163,7 +5163,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5181,7 +5181,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-2.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-2.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5199,7 +5199,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-3.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-3.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5217,7 +5217,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-4.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-4.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5235,7 +5235,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-5.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-5.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5253,7 +5253,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-6.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-6.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5271,7 +5271,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-7.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-7.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5289,7 +5289,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-8.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-8.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5307,7 +5307,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-9.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-9.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5325,7 +5325,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-10.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-10.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5343,7 +5343,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-11.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-11.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5361,7 +5361,7 @@
 	    				<div class="col-12 col-sm-6 col-md-6 col-xl-3 p0">
 	    					<div class="bast-rated-box">
 								<div class="media">
-									<a href="product-details.html"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-12.jpg" alt="Generic placeholder image"></a>
+									<a href="product-details.php"><img class="d-flex mr-3" src="img/best-rated/best-reted-img-12.jpg" alt="Generic placeholder image"></a>
 									<div class="media-body">
 										<strong class="price">$50.00 - $60.00</strong>
 										<p class="rated-content">Echo Dot ( 2nd Generation )</p>
@@ -5398,27 +5398,27 @@
 							<div class="weekly-news-img text-left">
 								<img src="img/weekly-news/weekly-news-img-1.jpg" class="figure-img img-fluid rounded" alt="weekly-news-img">
 								<div class="weekly-news-title">
-									<a href="single-blog-with.html"><h4>Most wonderfull affiliate market theme and template BLURB</h4></a>
+									<a href="single-blog-with.php"><h4>Most wonderfull affiliate market theme and template BLURB</h4></a>
 								</div>
 							</div>
 							<figcaption class="figure-caption">
 								<div class="blog-meta container">
 									<div class="row">
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Likes  115</a>
+											<a href="single-blog-with.php"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Likes  115</a>
 										</div>
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-commenting" aria-hidden="true"></i> Comments  59</a>
+											<a href="single-blog-with.php"><i class="fa fa-commenting" aria-hidden="true"></i> Comments  59</a>
 										</div>
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-share-alt-square" aria-hidden="true"></i> Share  20</a>
+											<a href="single-blog-with.php"><i class="fa fa-share-alt-square" aria-hidden="true"></i> Share  20</a>
 										</div>
 									</div>
 								</div>
 								<div class="text-center">
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum at, quibusdam ipsa tenetur possimus dignissimos vitae nesciunt laudantium laborum in iste eveniet reprehenderit maxime fVigoe culpa 
 								</div>
-								<a href="single-blog-with.html" class="badge badge-light wd-news-more-btn">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+								<a href="single-blog-with.php" class="badge badge-light wd-news-more-btn">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 							</figcaption>
 						</figure>
 						<div class="weekly-news-shape"></div>
@@ -5430,27 +5430,27 @@
 							<div class="weekly-news-img text-left">
 								<img src="img/weekly-news/weekly-news-img-2.jpg" class="figure-img img-fluid rounded" alt="weekly-news-img">
 								<div class="weekly-news-title">
-									<a href="single-blog-with.html"><h4>Power is your hand if you get money making theme </h4></a>
+									<a href="single-blog-with.php"><h4>Power is your hand if you get money making theme </h4></a>
 								</div>
 							</div>
 							<figcaption class="figure-caption">
 								<div class="blog-meta container">
 									<div class="row">
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Likes  115</a>
+											<a href="single-blog-with.php"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Likes  115</a>
 										</div>
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-commenting" aria-hidden="true"></i> Comments  59</a>
+											<a href="single-blog-with.php"><i class="fa fa-commenting" aria-hidden="true"></i> Comments  59</a>
 										</div>
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-share-alt-square" aria-hidden="true"></i> Share  20</a>
+											<a href="single-blog-with.php"><i class="fa fa-share-alt-square" aria-hidden="true"></i> Share  20</a>
 										</div>
 									</div>
 								</div>
 								<div class="text-center">
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum at, quibusdam ipsa tenetur possimus dignissimos vitae nesciunt laudantium laborum in iste eveniet reprehenderit maxime fVigoe culpa 
 								</div>
-								<a href="single-blog-with.html" class="badge badge-light wd-news-more-btn">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+								<a href="single-blog-with.php" class="badge badge-light wd-news-more-btn">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 							</figcaption>
 						</figure>
 						<div class="weekly-news-shape"></div>
@@ -5462,27 +5462,27 @@
 							<div class="weekly-news-img text-left">
 								<img src="img/weekly-news/weekly-news-img-3.jpg" class="figure-img img-fluid rounded" alt="weekly-news-img">
 								<div class="weekly-news-title">
-									<a href="single-blog-with.html"><h4>No need to develop online store if you have idea like BLURB</h4></a>
+									<a href="single-blog-with.php"><h4>No need to develop online store if you have idea like BLURB</h4></a>
 								</div>
 							</div>
 							<figcaption class="figure-caption">
 								<div class="blog-meta container">
 									<div class="row">
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Likes  115</a>
+											<a href="single-blog-with.php"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Likes  115</a>
 										</div>
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-commenting" aria-hidden="true"></i> Comments  59</a>
+											<a href="single-blog-with.php"><i class="fa fa-commenting" aria-hidden="true"></i> Comments  59</a>
 										</div>
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-share-alt-square" aria-hidden="true"></i> Share  20</a>
+											<a href="single-blog-with.php"><i class="fa fa-share-alt-square" aria-hidden="true"></i> Share  20</a>
 										</div>
 									</div>
 								</div>
 								<div class="text-center">
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum at, quibusdam ipsa tenetur possimus dignissimos vitae nesciunt laudantium laborum in iste eveniet reprehenderit maxime fVigoe culpa 
 								</div>
-								<a href="single-blog-with.html" class="badge badge-light wd-news-more-btn">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+								<a href="single-blog-with.php" class="badge badge-light wd-news-more-btn">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 							</figcaption>
 						</figure>
 						<div class="weekly-news-shape"></div>
@@ -5494,27 +5494,27 @@
 							<div class="weekly-news-img text-left">
 								<img src="img/weekly-news/weekly-news-img-4.jpg" class="figure-img img-fluid rounded" alt="weekly-news-img">
 								<div class="weekly-news-title">
-									<a href="single-blog-with.html"><h4>Money making is easy to get our themes with affiliate market idea</h4></a>
+									<a href="single-blog-with.php"><h4>Money making is easy to get our themes with affiliate market idea</h4></a>
 								</div>
 							</div>
 							<figcaption class="figure-caption">
 								<div class="blog-meta container">
 									<div class="row">
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Likes  115</a>
+											<a href="single-blog-with.php"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Likes  115</a>
 										</div>
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-commenting" aria-hidden="true"></i> Comments  59</a>
+											<a href="single-blog-with.php"><i class="fa fa-commenting" aria-hidden="true"></i> Comments  59</a>
 										</div>
 										<div class="col blog-meta-box">
-											<a href="single-blog-with.html"><i class="fa fa-share-alt-square" aria-hidden="true"></i> Share  20</a>
+											<a href="single-blog-with.php"><i class="fa fa-share-alt-square" aria-hidden="true"></i> Share  20</a>
 										</div>
 									</div>
 								</div>
 								<div class="text-center">
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum at, quibusdam ipsa tenetur possimus dignissimos vitae nesciunt laudantium laborum in iste eveniet reprehenderit maxime fVigoe culpa 
 								</div>
-								<a href="single-blog-with.html" class="badge badge-light wd-news-more-btn">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+								<a href="single-blog-with.php" class="badge badge-light wd-news-more-btn">Read More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 							</figcaption>
 						</figure>
 						<div class="weekly-news-shape"></div>
@@ -5569,7 +5569,7 @@
     						Footer About
     					 =========================== -->
     				<div class="footer-about">
-    					<a href="index.html" class="footer-about-logo">
+    					<a href="index.php" class="footer-about-logo">
     						<img src="img/logo.png" alt="Logo">
     					</a>
 	    				<div class="footer-description">
@@ -5591,11 +5591,11 @@
     					 =========================== -->
     				<h6 class="footer-subtitle">Festival Deals</h6>
     				<ul>
-    					<li><a href="index.html"> Home </a></li>
-    					<li><a href="compare-products.html">Comparison Product </a></li>
-    					<li><a href="shop-left-sidebar.html">Shop </a></li>
-    					<li><a href="review-left-sidebar.html">Reviews</a></li>
-    					<li><a href="blog-four-grid-left-sidebar.html">Blog</a></li>
+    					<li><a href="index.php"> Home </a></li>
+    					<li><a href="compare-products.php">Comparison Product </a></li>
+    					<li><a href="shop-left-sidebar.php">Shop </a></li>
+    					<li><a href="review-left-sidebar.php">Reviews</a></li>
+    					<li><a href="blog-four-grid-left-sidebar.php">Blog</a></li>
     				</ul>
     			</div>
     			<div class="col-6 col-md-3 col-lg-2 footer-nav">
@@ -5605,11 +5605,11 @@
     				<div class="stores-list">
 	    				<h6 class="footer-subtitle">Top Stores</h6>
 	    				<ul>
-	    					<li><a href="shop-left-sidebar.html">Affiliate Market 1</a></li>
-	    					<li><a href="shop-left-sidebar.html">Affiliate Market 2</a></li>
-	    					<li><a href="shop-left-sidebar.html">Affiliate Market 3</a></li>
-	    					<li><a href="shop-left-sidebar.html">Affiliate Market 4</a></li>
-	    					<li><a href="shop-left-sidebar.html">Affiliate Market 5</a></li>
+	    					<li><a href="shop-left-sidebar.php">Affiliate Market 1</a></li>
+	    					<li><a href="shop-left-sidebar.php">Affiliate Market 2</a></li>
+	    					<li><a href="shop-left-sidebar.php">Affiliate Market 3</a></li>
+	    					<li><a href="shop-left-sidebar.php">Affiliate Market 4</a></li>
+	    					<li><a href="shop-left-sidebar.php">Affiliate Market 5</a></li>
 	    					
 	    				</ul>
     				</div>
@@ -5620,13 +5620,13 @@
     					 =========================== -->
     				<h6 class="footer-subtitle">Need Help ?</h6>
     				<ul>
-    					<li><a href="product-details-scroll.html">Getting Started</a></li>
-    					<li><a href="contact-us.html">Contact Us</a></li>
-    					<li><a href="product-details-scroll.html">FAQ's</a></li>
-    					<li><a href="product-details-scroll.html">Press</a></li>
-    					<li><a href="product-details-scroll.html">Product Feed</a></li>
-    					<li><a href="product-details-scroll.html">Best Rated Product</a></li>
-    					<li><a href="product-details-scroll.html">Feature product</a></li>
+    					<li><a href="product-details-scroll.php">Getting Started</a></li>
+    					<li><a href="contact-us.php">Contact Us</a></li>
+    					<li><a href="product-details-scroll.php">FAQ's</a></li>
+    					<li><a href="product-details-scroll.php">Press</a></li>
+    					<li><a href="product-details-scroll.php">Product Feed</a></li>
+    					<li><a href="product-details-scroll.php">Best Rated Product</a></li>
+    					<li><a href="product-details-scroll.php">Feature product</a></li>
     				</ul>
     			</div>
     			<div class="col-6 col-md-3 col-lg-2 footer-nav">
@@ -5635,10 +5635,10 @@
     					 =========================== -->
     				<h6 class="footer-subtitle">About</h6>
 	    				<ul>
-	    					<li><a href="conditions.html">Privacy</a></li>
-	    					<li><a href="conditions.html">Return Policy</a></li>
-	    					<li><a href="conditions.html">Order &#38; Return</a></li>
-	    					<li><a href="conditions.html">Terms &#38; Conditions</a></li>
+	    					<li><a href="conditions.php">Privacy</a></li>
+	    					<li><a href="conditions.php">Return Policy</a></li>
+	    					<li><a href="conditions.php">Order &#38; Return</a></li>
+	    					<li><a href="conditions.php">Terms &#38; Conditions</a></li>
 	    				</ul>
     			</div>
     			<div class="col-12 col-md-12 col-lg-2">

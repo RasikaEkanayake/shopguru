@@ -118,27 +118,27 @@
                         <!--Mobile Menu start-->
 
                         <ul id="mobilemenu" class="accordion">
-                           <!-- <li class="mob-logo"><a href="index.html"><img src="img/logo.png" alt=""></a></li>-->
+                           <!-- <li class="mob-logo"><a href="index.php"><img src="img/logo.png" alt=""></a></li>-->
                             <li><a class="closeme" href="#"><i class="fa fa-times" ></i></a></li>
-                            <li class="mob-logo"><a href="index.html"><img src="img/logo.png" alt=""></a></li>
+                            <li class="mob-logo"><a href="index.php"><img src="img/logo.png" alt=""></a></li>
                             
                             
                             <li>
                                 <div class="link">Home<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu font-sky">
-                                    <li><a href="index.html">Home one</a></li>
-                                    <li><a href="index-01-02.html">Home one Fullwidth</a></li>
-                                    <li><a href="index-second-home.html">Home two</a></li>
-                                    <li><a href="index-third-home.html">Home three</a></li>
-                                    <li><a href="magazine.html">Home Page Magazine </a></li>
+                                    <li><a href="index.php">Home one</a></li>
+                                    <li><a href="index-01-02.php">Home one Fullwidth</a></li>
+                                    <li><a href="index-second-home.php">Home two</a></li>
+                                    <li><a href="index-third-home.php">Home three</a></li>
+                                    <li><a href="magazine.php">Home Page Magazine </a></li>
                                 </ul>
                             </li>
                             <li>
                                 <div class="link">Comparison Product <i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu font-sky">
-                                    <li><a href="compare-products.html">Comparison Product</a></li>
-                                    <li><a href="compare-products-single.html">Compare Products Single</a></li>
-                                    <li><a href="compare-products-choose-market.html">Compare Products Choose Market</a></li>
+                                    <li><a href="compare-products.php">Comparison Product</a></li>
+                                    <li><a href="compare-products-single.php">Compare Products Single</a></li>
+                                    <li><a href="compare-products-choose-market.php">Compare Products Choose Market</a></li>
                                     
                                 </ul>
                             </li>
@@ -146,72 +146,72 @@
                                 <div class="link ">shop<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu">
 
-                                    <li><a href="shop-left-sidebar.html">Shop Page</a></li>
-                                    <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                    <li><a href="shop-left-sidebar-full-grid.html">Shop Left Sidebar Full Grid</a></li>
-                                    <li><a href="shop-right-sidebar-full-grid.html">Shop Right Sidebar Full Grid</a></li>
-                                    <li><a href="product-details.html">Product Details</a></li>
-                                    <li><a href="product-details-scroll.html">Product Details v2</a></li>
-                                    <li><a href="wishlist.html">Wishlist View</a></li>
+                                    <li><a href="shop-left-sidebar.php">Shop Page</a></li>
+                                    <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
+                                    <li><a href="shop-left-sidebar-full-grid.php">Shop Left Sidebar Full Grid</a></li>
+                                    <li><a href="shop-right-sidebar-full-grid.php">Shop Right Sidebar Full Grid</a></li>
+                                    <li><a href="product-details.php">Product Details</a></li>
+                                    <li><a href="product-details-scroll.php">Product Details v2</a></li>
+                                    <li><a href="wishlist.php">Wishlist View</a></li>
                                 </ul>
                             </li>
 
                             <li>
                                 <div class="link">megamenu<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu ">
-                                  <li><a href="shop-left-sidebar.html">Visual Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Chinese phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Google Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Video cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Top Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Cheap Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Best Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Luxury Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
-                                  <li><a href="shop-left-sidebar.html">Phone Electronice</a></li>
-					              <li><a href="shop-left-sidebar.html">Phone Appereances</a></li>
-					              <li><a href="shop-left-sidebar.html">Visual Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Chinese phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Google Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Cheap Phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Luxury phones</a></li>
-					              <li><a href="shop-left-sidebar.html">Simple phones</a></li>
-                                  <li><a href="shop-left-sidebar.html">Camera Electronice</a></li>
-					              <li><a href="shop-left-sidebar.html">Camera Appereances</a></li>
-					              <li><a href="shop-left-sidebar.html">DSLR</a></li>
-					              <li><a href="shop-left-sidebar.html">Video cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Top Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Cheap Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Best Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Luxury Cameras</a></li>
-					              <li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
+                                  <li><a href="shop-left-sidebar.php">Visual Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Chinese phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Google Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Video cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Top Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Cheap Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Best Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Luxury Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Simple Cameras</a></li>
+                                  <li><a href="shop-left-sidebar.php">Phone Electronice</a></li>
+					              <li><a href="shop-left-sidebar.php">Phone Appereances</a></li>
+					              <li><a href="shop-left-sidebar.php">Visual Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Chinese phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Google Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Cheap Phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Luxury phones</a></li>
+					              <li><a href="shop-left-sidebar.php">Simple phones</a></li>
+                                  <li><a href="shop-left-sidebar.php">Camera Electronice</a></li>
+					              <li><a href="shop-left-sidebar.php">Camera Appereances</a></li>
+					              <li><a href="shop-left-sidebar.php">DSLR</a></li>
+					              <li><a href="shop-left-sidebar.php">Video cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Top Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Cheap Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Best Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Luxury Cameras</a></li>
+					              <li><a href="shop-left-sidebar.php">Simple Cameras</a></li>
                                 </ul>
                                 
                             </li>
                             <li>
                                 <div class="link">Reviews<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu">
-                                    <li><a href="product-details-review-history.html">Product History</a></li>
-                                    <li><a href="product-details-single-review.html">Single Review</a></li>
-                                    <li><a href="review-left-sidebar.html">Review Left Sidebar</a></li>
-                                    <li><a href="review-right-sidebar.html">Review Right Sidebar</a></li>
+                                    <li><a href="product-details-review-history.php">Product History</a></li>
+                                    <li><a href="product-details-single-review.php">Single Review</a></li>
+                                    <li><a href="review-left-sidebar.php">Review Left Sidebar</a></li>
+                                    <li><a href="review-right-sidebar.php">Review Right Sidebar</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <div class="link">Blog<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu">
-                                    <li><a href="blog-full-grid.html">Blog Full Grid</a></li>
-                                    <li><a href="blog-two-grid.html">Blog Two Grid</a></li>
-                                    <li><a href="blog-three-grid.html">Blog Three Grid</a></li>
-                                    <li><a href="blog-four-grid.html">Blog Four Grid</a></li>
-                                    <li><a href="blog-four-grid-left-sidebar.html">Blog Four Grid Left Sidebar</a></li>
-                                    <li><a href="blog-four-grid-right-sidebar.html">Blog Four Grid Right Sidebar</a></li>
-                                    <li><a href="single-blog-with.html">Single Blog</a></li>
-                                    <li><a href="single-blog-with-add.html">Single Blog With Add</a></li>
+                                    <li><a href="blog-full-grid.php">Blog Full Grid</a></li>
+                                    <li><a href="blog-two-grid.php">Blog Two Grid</a></li>
+                                    <li><a href="blog-three-grid.php">Blog Three Grid</a></li>
+                                    <li><a href="blog-four-grid.php">Blog Four Grid</a></li>
+                                    <li><a href="blog-four-grid-left-sidebar.php">Blog Four Grid Left Sidebar</a></li>
+                                    <li><a href="blog-four-grid-right-sidebar.php">Blog Four Grid Right Sidebar</a></li>
+                                    <li><a href="single-blog-with.php">Single Blog</a></li>
+                                    <li><a href="single-blog-with-add.php">Single Blog With Add</a></li>
                                 </ul>
                             </li>
-                            <li class="out-link"><a class="" href="contact-us.html">Contact</a></li>
-                            <li class="out-link"><a class="" href="coupon.html">Coupon</a></li>
+                            <li class="out-link"><a class="" href="contact-us.php">Contact</a></li>
+                            <li class="out-link"><a class="" href="coupon.php">Coupon</a></li>
 
                         </ul>
                         <!--Mobile Menu end-->
@@ -220,7 +220,7 @@
 				    
     			<div class="order-1 order-sm-2  col-12 col-sm-4 col-md-4 col-lg-2 col-xl-2">
     				<div class="blrub-logo">
-	    				<a href="index.html">
+	    				<a href="index.php">
 	    					<img src="img/logo.png" alt="Logo">
 	    				</a>
     				</div>
@@ -441,11 +441,11 @@
 						============================== -->
 						
 							<div class="header-cart">
-							    <a href="coupon.html" class="coupon-save"><i class="fa fa-star-o" aria-hidden="true"></i>
+							    <a href="coupon.php" class="coupon-save"><i class="fa fa-star-o" aria-hidden="true"></i>
 							    <span class="count">5</span>
 							    </a>
 							    
-								<a class="header-wishlist" href="wishlist.html">
+								<a class="header-wishlist" href="wishlist.php">
 									<i class="fa fa-heart-o" aria-hidden="true"></i>
 									<span class="count">8</span>
 								</a>
@@ -529,7 +529,7 @@
 										</div>
 									</div>
 								  	<div class="media text-center">
-										<a href="compare-products.html" class="btn btn-primary go-compare-page">Compare 
+										<a href="compare-products.php" class="btn btn-primary go-compare-page">Compare 
 										<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 									</div>
 								  </div>
@@ -552,98 +552,98 @@
 					<div class="menu-container wd-megamenu">
                         <div class="menu">
                             <ul class="wd-megamenu-ul">
-                                <li><a href="index.html" class="main-menu-list"><i class="fa fa-home" aria-hidden="true"></i> Home <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
+                                <li><a href="index.php" class="main-menu-list"><i class="fa fa-home" aria-hidden="true"></i> Home <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                     <ul class="single-dropdown">
-                                        <li><a href="index.html">Home Page 1</a></li>
-                                        <li><a href="index-01-02.html">Home page 1 Fullwidth</a></li>
-                                        <li><a href="index-second-home.html">Home Page 2</a></li>
-                                        <li><a href="index-third-home.html">Home Page 3</a></li>
-                                        <li><a href="magazine.html">Home Page Magazine</a></li>
+                                        <li><a href="index.php">Home Page 1</a></li>
+                                        <li><a href="index-01-02.php">Home page 1 Fullwidth</a></li>
+                                        <li><a href="index-second-home.php">Home Page 2</a></li>
+                                        <li><a href="index-third-home.php">Home Page 3</a></li>
+                                        <li><a href="magazine.php">Home Page Magazine</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="compare-products.html" class="main-menu-list">Comparison Product <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
+                                <li><a href="compare-products.php" class="main-menu-list">Comparison Product <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                     <ul class="single-dropdown">
-                                        <li><a href="compare-products.html">Comparison Product</a></li>
-                                        <li><a href="compare-products-single.html">Compare Products Single</a></li>
-                                        <li><a href="compare-products-choose-market.html">Compare Products Choose Market</a></li>
-                                        <li><a href="contact-us.html">Contact us</a></li>
+                                        <li><a href="compare-products.php">Comparison Product</a></li>
+                                        <li><a href="compare-products-single.php">Compare Products Single</a></li>
+                                        <li><a href="compare-products-choose-market.php">Compare Products Choose Market</a></li>
+                                        <li><a href="contact-us.php">Contact us</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="shop-left-sidebar.html" class="main-menu-list">Shop <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
+                                <li><a href="shop-left-sidebar.php" class="main-menu-list">Shop <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                     <ul class="single-dropdown">
-                                        <li><a href="shop-left-sidebar.html">Shop Page</a></li>
-                                        <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                        <li><a href="shop-left-sidebar-full-grid.html">Shop Left Sidebar Full Grid</a></li>
-                                        <li><a href="shop-right-sidebar-full-grid.html">Shop Right Sidebar Full Grid</a></li>
-                                        <li><a href="product-details.html">Product Details</a></li>
-                                        <li><a href="product-details-scroll.html">Product Details v2</a></li>
-                                        <li><a href="wishlist.html">Wishlist View</a></li>
+                                        <li><a href="shop-left-sidebar.php">Shop Page</a></li>
+                                        <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
+                                        <li><a href="shop-left-sidebar-full-grid.php">Shop Left Sidebar Full Grid</a></li>
+                                        <li><a href="shop-right-sidebar-full-grid.php">Shop Right Sidebar Full Grid</a></li>
+                                        <li><a href="product-details.php">Product Details</a></li>
+                                        <li><a href="product-details-scroll.php">Product Details v2</a></li>
+                                        <li><a href="wishlist.php">Wishlist View</a></li>
                                     </ul>
                                 </li>
-                                <li class="pos-inherit"><a href="shop-left-sidebar.html" class="main-menu-list ">Shortcode <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
+                                <li class="pos-inherit"><a href="shop-left-sidebar.php" class="main-menu-list ">Shortcode <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                     <ul class="single-dropdown megamenu">
                                         <li><a href="#" class="menu-subtitle">Shortcode One</a>
                                             <ul class="sub-menu-list">
-                                                <li><a href="blurb-blog.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i> blurb-blog</a></li>
-                                                <li><a href="blurb-call-to-action.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-call-to-action</a></li>
-                                                <li><a href="blurb-carousel.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-carousel</a></li>
-                                                <li><a href="blurb-compare-products.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-compare-products</a></li>
-                                                <li><a href="blurb-footer.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-footer</a></li>
-                                                <li><a href="blurb-counterup.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb Count up</a></li>
-                                                <li><a href="404.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>404 page</a></li>
+                                                <li><a href="blurb-blog.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> blurb-blog</a></li>
+                                                <li><a href="blurb-call-to-action.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-call-to-action</a></li>
+                                                <li><a href="blurb-carousel.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-carousel</a></li>
+                                                <li><a href="blurb-compare-products.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-compare-products</a></li>
+                                                <li><a href="blurb-footer.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-footer</a></li>
+                                                <li><a href="blurb-counterup.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb Count up</a></li>
+                                                <li><a href="404.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>404 page</a></li>
                                                 
                                             </ul>
                                         </li>
                                         <li><a href="#" class="menu-subtitle">Shortcode Two</a>
                                             <ul class="sub-menu-list">
                                                 
-                                                <li><a href="blurb-product.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-product</a></li>
-                                                <li><a href="blurb-reveiw.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-reveiw</a></li>
-                                                <li><a href="blurb-service.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-service</a></li>
-                                                <li><a href="blurb-widgetstyle-1.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-1</a></li>
-                                                <li><a href="blurb-social.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb social icon</a></li>
-                                                <li><a href="blurb-subscribe.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb Subscribe</a></li>
-                                                <li><a href="coming-soon.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Coming Soon</a></li>
+                                                <li><a href="blurb-product.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-product</a></li>
+                                                <li><a href="blurb-reveiw.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-reveiw</a></li>
+                                                <li><a href="blurb-service.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-service</a></li>
+                                                <li><a href="blurb-widgetstyle-1.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-1</a></li>
+                                                <li><a href="blurb-social.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb social icon</a></li>
+                                                <li><a href="blurb-subscribe.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb Subscribe</a></li>
+                                                <li><a href="coming-soon.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Coming Soon</a></li>
                                                 
                                             </ul>
                                         </li>
                                         <li><a href="#" class="menu-subtitle">Shortcode three</a>
                                             <ul class="sub-menu-list">
-                                                <li><a href="blurb-widgetstyle-2.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-2</a></li>
-                                                <li><a href="blurb-widgetstyle-3.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-3</a></li>
-                                                <li><a href="blurb-widgetstyle-4.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-4</a></li>
-                                                <li><a href="blurb-widgetstyle-5.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-5</a></li>
-                                                <li><a href="blurb-widgetstyle-6.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-6</a></li>
+                                                <li><a href="blurb-widgetstyle-2.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-2</a></li>
+                                                <li><a href="blurb-widgetstyle-3.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-3</a></li>
+                                                <li><a href="blurb-widgetstyle-4.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-4</a></li>
+                                                <li><a href="blurb-widgetstyle-5.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-5</a></li>
+                                                <li><a href="blurb-widgetstyle-6.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i>blurb-widgetstyle-6</a></li>
                                                 
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="product-details-scroll.html" class="add-img"><img src="img/nav-img-1.jpg" class="figure-img img-fluid" alt="Product Img"></a>
-                                            <a href="product-details-scroll.html" class="add-img"><img src="img/nav-img-2.jpg" class="figure-img img-fluid" alt="Product Img"></a>
+                                            <a href="product-details-scroll.php" class="add-img"><img src="img/nav-img-1.jpg" class="figure-img img-fluid" alt="Product Img"></a>
+                                            <a href="product-details-scroll.php" class="add-img"><img src="img/nav-img-2.jpg" class="figure-img img-fluid" alt="Product Img"></a>
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="review-left-sidebar.html" class="main-menu-list">REVIEWS</a>
+                                <li><a href="review-left-sidebar.php" class="main-menu-list">REVIEWS</a>
                                     <ul class="single-dropdown">
-                                        <li><a href="product-details-review-history.html">Product History</a></li>
-                                        <li><a href="product-details-single-review.html">Single Review</a></li>
-                                        <li><a href="review-left-sidebar.html">Review Left Sidebar</a></li>
-                                        <li><a href="review-right-sidebar.html">Review Right Sidebar</a></li>
+                                        <li><a href="product-details-review-history.php">Product History</a></li>
+                                        <li><a href="product-details-single-review.php">Single Review</a></li>
+                                        <li><a href="review-left-sidebar.php">Review Left Sidebar</a></li>
+                                        <li><a href="review-right-sidebar.php">Review Right Sidebar</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="blog-four-grid-left-sidebar.html" class="main-menu-list">Blog <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
+                                <li><a href="blog-four-grid-left-sidebar.php" class="main-menu-list">Blog <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                     <ul class="single-dropdown">
-                                        <li><a href="blog-full-grid.html">Blog Full Grid</a></li>
-                                        <li><a href="blog-two-grid.html">Blog Two Grid</a></li>
-                                        <li><a href="blog-three-grid.html">Blog Three Grid</a></li>
-                                        <li><a href="blog-four-grid.html">Blog Four Grid</a></li>
-                                        <li><a href="blog-four-grid-left-sidebar.html">Blog Four Grid Left Sidebar</a></li>
-                                        <li><a href="blog-four-grid-right-sidebar.html">Blog Four Grid Right Sidebar</a></li>
-                                        <li><a href="single-blog-with.html">Single Blog</a></li>
-                                        <li><a href="single-blog-with-add.html">Single Blog With Add</a></li>
+                                        <li><a href="blog-full-grid.php">Blog Full Grid</a></li>
+                                        <li><a href="blog-two-grid.php">Blog Two Grid</a></li>
+                                        <li><a href="blog-three-grid.php">Blog Three Grid</a></li>
+                                        <li><a href="blog-four-grid.php">Blog Four Grid</a></li>
+                                        <li><a href="blog-four-grid-left-sidebar.php">Blog Four Grid Left Sidebar</a></li>
+                                        <li><a href="blog-four-grid-right-sidebar.php">Blog Four Grid Right Sidebar</a></li>
+                                        <li><a href="single-blog-with.php">Single Blog</a></li>
+                                        <li><a href="single-blog-with-add.php">Single Blog With Add</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="coupon.html" class="main-menu-list">Coupon</a></li>
+                                <li><a href="coupon.php" class="main-menu-list">Coupon</a></li>
                             </ul>
                         </div>
 					</div>
@@ -1123,19 +1123,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1144,10 +1144,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Give yourself freedom</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Give yourself freedom</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1165,19 +1165,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1186,10 +1186,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Digital Cameras sellers</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Digital Cameras sellers</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1207,19 +1207,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1228,10 +1228,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Movies included with</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Movies included with</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1250,19 +1250,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1271,10 +1271,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Give yourself freedom</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Give yourself freedom</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1292,19 +1292,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1313,10 +1313,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Digital Cameras sellers</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Digital Cameras sellers</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1334,19 +1334,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1355,10 +1355,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Movies included with</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Movies included with</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1377,19 +1377,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1398,10 +1398,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Give yourself freedom</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Give yourself freedom</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1419,19 +1419,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1440,10 +1440,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Digital Cameras sellers</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Digital Cameras sellers</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1461,19 +1461,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1482,10 +1482,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Movies included with</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Movies included with</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1504,19 +1504,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1525,10 +1525,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Give yourself freedom</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Give yourself freedom</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1546,19 +1546,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1567,10 +1567,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Digital Cameras sellers</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Digital Cameras sellers</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1588,19 +1588,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1609,10 +1609,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Movies included with</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Movies included with</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1632,19 +1632,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1653,10 +1653,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Give yourself freedom</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Give yourself freedom</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1674,19 +1674,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1695,10 +1695,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Digital Cameras sellers</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Digital Cameras sellers</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1716,19 +1716,19 @@
 		    					</div>
 		    					<div class="blog-meta">
 		    						<div class="d-flex justify-content-start">
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-like">
 				    							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 				    							115
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="comment">
 				    							<i class="fa fa-commenting" aria-hidden="true"></i>
 				    							59
 				    						</div>
 			    						</a>
-			    						<a href="single-blog-with.html">
+			    						<a href="single-blog-with.php">
 				    						<div class="blog-share">
 				    							<i class="fa fa-share-alt-square" aria-hidden="true"></i>
 				    							20
@@ -1737,10 +1737,10 @@
 		    						</div>
 		    					</div>
 		    					<div class="blog-content-box">
-		    						<a href="single-blog-with.html"><h4 class="blog-title">Movies included with</h4></a>
+		    						<a href="single-blog-with.php"><h4 class="blog-title">Movies included with</h4></a>
 		    						<p class="blog-content">With precision crafted metal frame design, refined performance and Windows 10 built in, it’s the smart choice for your business.</p>
 									<div class="raed-more">
-										<a class="btn btn-link" href="single-blog-with.html">
+										<a class="btn btn-link" href="single-blog-with.php">
 											READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i>
 										</a>
 									</div>
@@ -1924,11 +1924,11 @@
     				<div class="footer-nav">
 	    				<h6 class="footer-subtitle active-color">Footer Menu</h6>
 	    				<ul>
-	    					<li><a href="index.html"> Home </a></li>
-	    					<li><a href="compare-products.html">Comparison Product </a></li>
-	    					<li><a href="shop-left-sidebar.html">Shop </a></li>
-	    					<li><a href="review-left-sidebar.html">Reviews</a></li>
-	    					<li><a href="blog-four-grid-left-sidebar.html">Blog</a></li>
+	    					<li><a href="index.php"> Home </a></li>
+	    					<li><a href="compare-products.php">Comparison Product </a></li>
+	    					<li><a href="shop-left-sidebar.php">Shop </a></li>
+	    					<li><a href="review-left-sidebar.php">Reviews</a></li>
+	    					<li><a href="blog-four-grid-left-sidebar.php">Blog</a></li>
 	    				</ul>
     				</div>
     			</div>
@@ -1940,11 +1940,11 @@
 	    				<div class="stores-list">
 		    				<h6 class="footer-subtitle">Top Stores</h6>
 		    				<ul>
-		    					<li><a href="shop-left-sidebar.html">Affiliate Market 1</a></li>
-		    					<li><a href="shop-left-sidebar.html">Affiliate Market 2</a></li>
-		    					<li><a href="shop-left-sidebar.html">Affiliate Market 3</a></li>
-		    					<li><a href="shop-left-sidebar.html">Affiliate Market 4</a></li>
-		    					<li><a href="shop-left-sidebar.html">Affiliate Market 5</a></li>
+		    					<li><a href="shop-left-sidebar.php">Affiliate Market 1</a></li>
+		    					<li><a href="shop-left-sidebar.php">Affiliate Market 2</a></li>
+		    					<li><a href="shop-left-sidebar.php">Affiliate Market 3</a></li>
+		    					<li><a href="shop-left-sidebar.php">Affiliate Market 4</a></li>
+		    					<li><a href="shop-left-sidebar.php">Affiliate Market 5</a></li>
 		    				</ul>
 	    				</div>
 	    			</div>
@@ -1957,7 +1957,7 @@
 	    				<h6 class="footer-subtitle">Need Help ?</h6>
 	    				<ul>
 	    					<li><a href="#">Getting Started</a></li>
-	    					<li><a href="contact-us.html">Contact us</a></li>
+	    					<li><a href="contact-us.php">Contact us</a></li>
 	    					<li><a href="#">FAQ's</a></li>
 	    					<li><a href="#">Press</a></li>
 	    				</ul>
@@ -1970,10 +1970,10 @@
     				<div class="footer-nav">
 	    				<h6 class="footer-subtitle">About</h6>
 	    				<ul>
-	    					<li><a href="conditions.html">Privacy</a></li>
-	    					<li><a href="conditions.html">Return Policy</a></li>
-	    					<li><a href="conditions.html">Order &#38; Return</a></li>
-	    					<li><a href="conditions.html">Terms &#38; Conditions</a></li>
+	    					<li><a href="conditions.php">Privacy</a></li>
+	    					<li><a href="conditions.php">Return Policy</a></li>
+	    					<li><a href="conditions.php">Order &#38; Return</a></li>
+	    					<li><a href="conditions.php">Terms &#38; Conditions</a></li>
 	    				</ul>
 	    			</div>
     			</div>

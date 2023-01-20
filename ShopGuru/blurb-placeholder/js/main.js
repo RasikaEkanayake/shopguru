@@ -203,7 +203,7 @@
         $('[data-countdown]').each(function() {
         var $this = $(this), finalDate = $(this).data('countdown');
         $this.countdown(finalDate, function(event) {
-        $this.html(event.strftime('<span class="cdown day"><span class="time-count separator">%-D</span> <p class="cdown-tex">Days</p>  </span> <span class="cdown hour"><span class="time-count separator">%-H</span> <p class="cdown-tex">Hours</p>  </span> <span class="cdown minutes"><span class="time-count separator">%M</span> <p class="cdown-tex">Min</p>  </span> <span class="cdown"><span class="time-count">%S</span> <p class="cdown-tex">Sec</p> </span>'));
+        $this.php(event.strftime('<span class="cdown day"><span class="time-count separator">%-D</span> <p class="cdown-tex">Days</p>  </span> <span class="cdown hour"><span class="time-count separator">%-H</span> <p class="cdown-tex">Hours</p>  </span> <span class="cdown minutes"><span class="time-count separator">%M</span> <p class="cdown-tex">Min</p>  </span> <span class="cdown"><span class="time-count">%S</span> <p class="cdown-tex">Sec</p> </span>'));
           });
         });	
 
@@ -722,7 +722,7 @@
             max: 5,
             step: 1,
             slide: function (event, ui) {
-                $('#slider-value').html(ui.value);
+                $('#slider-value').php(ui.value);
                 if (ui.value == 1) {
                     $('.cat-1').addClass('active-color');
                 } else {
@@ -766,7 +766,7 @@
             max: 5,
             step: 1,
             slide: function (event, ui) {
-                $('#slider-value').html(ui.value);
+                $('#slider-value').php(ui.value);
                 if (ui.value == 1) {
                     $('.cat-2-1').addClass('active-color');
                 } else {
@@ -810,7 +810,7 @@
             max: 5,
             step: 1,
             slide: function (event, ui) {
-                $('#slider-value').html(ui.value);
+                $('#slider-value').php(ui.value);
                 if (ui.value == 1) {
                     $('.cat-3-1').addClass('active-color');
                 } else {
@@ -854,7 +854,7 @@
             max: 5,
             step: 1,
             slide: function (event, ui) {
-                $('#slider-value').html(ui.value);
+                $('#slider-value').php(ui.value);
                 if (ui.value == 1) {
                     $('.cat-4-1').addClass('active-color');
                 } else {
@@ -898,7 +898,7 @@
             max: 5,
             step: 1,
             slide: function (event, ui) {
-                $('#slider-value').html(ui.value);
+                $('#slider-value').php(ui.value);
                 if (ui.value == 1) {
                     $('.cat-4-1').addClass('active-color');
                 } else {
@@ -942,7 +942,7 @@
             max: 5,
             step: 1,
             slide: function (event, ui) {
-                $('#slider-value').html(ui.value);
+                $('#slider-value').php(ui.value);
                 if (ui.value == 1) {
                     $('.cat-5-1').addClass('active-color');
                 } else {

@@ -50,7 +50,7 @@
             <div class="row">
                <div class="col-xl-12">
                     <div class="coming-soon-logo">
-                       <a href="index.html"><img src="img/logo.png" alt=""></a>
+                       <a href="index.php"><img src="img/logo.png" alt=""></a>
                     </div>
                     <div class="coming-soon-text">
                         <h1>Hey Folks.</h1>
