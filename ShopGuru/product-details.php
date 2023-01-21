@@ -1,3 +1,18 @@
+ <?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "shopguru";
+
+// Create connection
+$conn = mysqli_connect($servername, $username, $password, $dbname);
+
+// Check connection
+if (!$conn) {
+  die("Connection failed: " . mysqli_connect_error());
+}
+$model = "iphone_11";
+?> 
 <!doctype html>
 <html class="no-js" lang="">
   <head>
@@ -920,40 +935,62 @@
 								</div>
 							</div>
 							<div class="product-store row">
-								<div class="col-12 product-store-box">
-									<div class="row">
-										<div class="col-3 p0 store-border-img">
-											<img src="img/product-store/product-store-img1.jpg" class="figure-img img-fluid" alt="Product Img">
-										</div>
-										<div class="col-5 store-border-price text-center">
-											<div class="price">
-												<p>$234</p>
-											</div>
-										</div>
-										<div class="col-4 store-border-button">
-											<a href="https://www.amazon.com/" target="_blank" class="btn btn-primary wd-shop-btn pull-right">
-												Buy it now
-											</a>
-										</div>
-									</div>
-								</div>
-								<div class="col-12 product-store-box">
-									<div class="row">
-										<div class="col-3 p0 store-border-img">
-											<img src="img/product-store/product-store-img2.jpg" class="figure-img img-fluid" alt="Product Img">
-										</div>
-										<div class="col-5 store-border-price text-center">
-											<div class="price">
-												<p>$535</p>
-											</div>
-										</div>
-										<div class="col-4 store-border-button">
-											<a href="https://www.aliexpress.com/" target="_blank" class="btn btn-primary wd-shop-btn pull-right red-bg">
-												Buy it now
-											</a>
-										</div>
-									</div>
-								</div>
+								<?php
+									echo '<div class="col-12 product-store-box">';
+									echo '<div class="row">';
+									echo '<div class="col-3 p0 store-border-img">';
+									echo '<img src="img/product-store/product-store-img1.jpg" class="figure-img img-fluid" alt="Product Img">';
+									echo '</div>';
+									echo '<div class="col-5 store-border-price text-center">';
+									echo '<div class="price">';
+									$sql = "SELECT $model FROM af where shop_id=1";
+									$result = $conn->query($sql);
+									if ($result->num_rows > 0) {
+									// output data of each row
+									while($row = $result->fetch_assoc()) {
+										echo $row[$model]. "<br>";
+									}
+									} else {
+									echo "0 results";
+									}
+									echo '</div>';
+									echo '</div>';
+									echo '<div class="col-4 store-border-button">';
+									echo '<a href="https://www.amazon.com/" target="_blank" class="btn btn-primary wd-shop-btn pull-right">';
+									echo 'Buy it now';
+									echo '</a>';
+									echo '</div>';
+									echo '</div>';
+									echo '</div>';
+							?>
+								<?php
+									echo '<div class="col-12 product-store-box">';
+									echo '<div class="row">';
+									echo '<div class="col-3 p0 store-border-img">';
+									echo '<img src="img/product-store/product-store-img2.jpg" class="figure-img img-fluid" alt="Product Img">';
+									echo '</div>';
+									echo '<div class="col-5 store-border-price text-center">';
+									echo '<div class="price">';
+									$sql = "SELECT $model FROM af where shop_id=2";
+									$result = $conn->query($sql);
+									if ($result->num_rows > 0) {
+									// output data of each row
+									while($row = $result->fetch_assoc()) {
+										echo $row[$model]. "<br>";
+									}
+									} else {
+									echo "0 results";
+									}
+									echo '</div>';
+									echo '</div>';
+									echo '<div class="col-4 store-border-button">';
+									echo '<a href="https://www.aliexpress.com/" target="_blank" class="btn btn-primary wd-shop-btn pull-right red-bg">';
+									echo 'Buy it now';
+									echo '</a>';
+									echo '</div>';
+									echo '</div>';
+									echo '</div>';
+									?>
 								<div class="col-12 product-store-box">
 									<div class="row">
 										<div class="col-3 p0 store-border-img">
