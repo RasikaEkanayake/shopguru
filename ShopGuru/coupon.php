@@ -430,7 +430,7 @@
                                     <li><a href="blog-full-grid.php">Blog Full Grid</a></li>
                                     <li><a href="blog-two-grid.php">Blog Two Grid</a></li>
                                     <li><a href="blog-three-grid.php">Blog Three Grid</a></li>
-                                    <li><a href="blog-four-grid.php">Blog Four Grid</a></li>
+                                    <li><a href="catogary.php">Blog Four Grid</a></li>
                                     <li><a href="blog-four-grid-left-sidebar.php">Blog Four Grid Left Sidebar</a></li>
                                     <li><a href="blog-four-grid-right-sidebar.php">Blog Four Grid Right Sidebar</a></li>
                                     <li><a href="single-blog-with.php">Single Blog</a></li>
@@ -653,7 +653,7 @@
                                                 <li><a href="blog-full-grid.php">Blog Full Grid</a></li>
                                                 <li><a href="blog-two-grid.php">Blog Two Grid</a></li>
                                                 <li><a href="blog-three-grid.php">Blog Three Grid</a></li>
-                                                <li><a href="blog-four-grid.php">Blog Four Grid</a></li>
+                                                <li><a href="catogary.php">Blog Four Grid</a></li>
                                                 <li><a href="blog-four-grid-left-sidebar.php">Blog Four Grid Left Sidebar</a></li>
                                                 <li><a href="blog-four-grid-right-sidebar.php">Blog Four Grid Right Sidebar</a></li>
                                                 <li><a href="single-blog-with.php">Single Blog</a></li>
