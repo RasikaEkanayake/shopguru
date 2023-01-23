@@ -1000,7 +1000,7 @@
 									<p>Compare and buy best Branded
 									mobile phones</p>
 	    						</div>
-	    						<a href="#" class="badge badge-light choose-category-link">Check best price list</a>
+	    						<a href="phonemodels/iphone11.php" class="badge badge-light choose-category-link">Check best price list</a>
 		    				</div>
 		    				<div class="category-img">
 		    					<a href="shop-left-sidebar.php"><img class="img-fluid" src="img/categories/cat-electronics.png" alt=""></a>
