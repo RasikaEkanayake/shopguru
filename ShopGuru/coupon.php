@@ -352,13 +352,7 @@
                             
                             <li>
                                 <div class="link">Home<i class="fa fa-chevron-down"></i></div>
-                                <ul class="submenu font-sky">
-                                    <li><a href="index.php">Home one</a></li>
-                                    <li><a href="index-01-02.php">Home one Fullwidth</a></li>
-                                    <li><a href="index-second-home.php">Home two</a></li>
-                                    <li><a href="index-third-home.php">Home three</a></li>
-                                    <li><a href="magazine.php">Home Page Magazine </a></li>
-                                </ul>
+                                 
                             </li>
                             <li>
                                 <div class="link">Comparison Product <i class="fa fa-chevron-down"></i></div>
@@ -569,14 +563,8 @@
                             <div class="menu-container wd-megamenu text-left">
                                 <div class="menu">
                                     <ul class="wd-megamenu-ul">
-                                        <li><a href="index.php" class="main-menu-list"><i class="fa fa-home" aria-hidden="true"></i> Home <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
-                                            <ul class="single-dropdown">
-                                                <li><a href="index.php">Home Page 1</a></li>
-                                                <li><a href="index-01-02.php">Home page 1 Fullwidth</a></li>
-                                                <li><a href="index-second-home.php">Home Page 2</a></li>
-                                                <li><a href="index-third-home.php">Home Page 3</a></li>
-                                                <li><a href="magazine.php">Home Page Magazine</a></li>
-                                            </ul>
+                                        <li><a href="index.php" class="main-menu-list"><i class="fa fa-home" aria-hidden="true"></i>   Home</i></a>
+                                              
                                         </li>
                                         <li><a href="compare-products.php" class="main-menu-list">Comparison Product <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
                                             <ul class="single-dropdown">
