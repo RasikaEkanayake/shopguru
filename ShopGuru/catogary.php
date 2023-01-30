@@ -149,39 +149,6 @@
                                     <li><a href="wishlist.php">Wishlist View</a></li>
                                 </ul>
                             </li>
-
-                            <li>
-                                <div class="link">megamenu<i class="fa fa-chevron-down"></i></div>
-                                <ul class="submenu ">
-                                  <li><a href="shop-left-sidebar.php">Visual Phones</a></li>
-					              <li><a href="shop-left-sidebar.php">Chinese phones</a></li>
-					              <li><a href="shop-left-sidebar.php">Google Phones</a></li>
-					              <li><a href="shop-left-sidebar.php">Video cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Top Cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Cheap Cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Best Cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Luxury Cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Simple Cameras</a></li>
-                                  <li><a href="shop-left-sidebar.php">Phone Electronice</a></li>
-					              <li><a href="shop-left-sidebar.php">Phone Appereances</a></li>
-					              <li><a href="shop-left-sidebar.php">Visual Phones</a></li>
-					              <li><a href="shop-left-sidebar.php">Chinese phones</a></li>
-					              <li><a href="shop-left-sidebar.php">Google Phones</a></li>
-					              <li><a href="shop-left-sidebar.php">Cheap Phones</a></li>
-					              <li><a href="shop-left-sidebar.php">Luxury phones</a></li>
-					              <li><a href="shop-left-sidebar.php">Simple phones</a></li>
-                                  <li><a href="shop-left-sidebar.php">Camera Electronice</a></li>
-					              <li><a href="shop-left-sidebar.php">Camera Appereances</a></li>
-					              <li><a href="shop-left-sidebar.php">DSLR</a></li>
-					              <li><a href="shop-left-sidebar.php">Video cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Top Cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Cheap Cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Best Cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Luxury Cameras</a></li>
-					              <li><a href="shop-left-sidebar.php">Simple Cameras</a></li>
-                                </ul>
-                                
-                            </li>
                             <li>
                                 <div class="link">Reviews<i class="fa fa-chevron-down"></i></div>
                                 <ul class="submenu">
@@ -980,7 +947,7 @@
 					    								iPhone 11
 					    							</div>
 					    							<div class="recente-product-categories">
-					    								Phones
+					    								Apple
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
