@@ -951,7 +951,7 @@
 					    							</div>
 					    						</div>
 					    						<div class="recente-product-content">
-													<a href="product-details.php">Phone 550 and  Scorebox  review example</a>
+													<a href="phonemodels/iphone11.php">Phone 550 and  Scorebox  review example</a>
 					    						</div>
 				    							<div class="recent-product-meta-link">
 				    								<a href="#"><i class="fa fa-star active-color" aria-hidden="true"></i><strong>4.5</strong></a>

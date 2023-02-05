@@ -931,26 +931,9 @@ $Battery_life = "";
 						    ========================================= -->
 						    <div class="row">
 								<div class="col-md-12 product-slier-details">
-								    <ul id="lightSlider">
 								        <li data-thumb="../img/product-img/product-description-1.jpg">
 								            <img class="figure-img img-fluid" src="../img/product-img/product-description-1.jpg" alt="product-img" />
 								        </li>
-								        <li data-thumb="../img/product-img/product-description-1.jpg">
-								            <img class="figure-img img-fluid" src="../img/product-img/product-description-1.jpg" alt="product-img" />
-								        </li>
-								        <li data-thumb="../img/product-img/product-description-1.jpg">
-								            <img class="figure-img img-fluid" src="../img/product-img/product-description-1.jpg" alt="product-img" />
-								        </li>
-								        <li data-thumb="../img/product-img/product-description-1.jpg">
-								            <img class="figure-img img-fluid" src="../img/product-img/product-description-1.jpg" alt="product-img" />
-								        </li>
-								        <li data-thumb="../img/product-img/product-description-1.jpg">
-								            <img class="figure-img img-fluid" src="../img/product-img/product-description-1.jpg" alt="product-img" />
-								        </li>
-								        <li data-thumb="../img/product-img/product-description-1.jpg">
-								            <img class="figure-img img-fluid" src="../img/product-img/product-description-1.jpg" alt="product-img" />
-								        </li>
-								    </ul>
 								</div>
 							</div>
 						</div>
